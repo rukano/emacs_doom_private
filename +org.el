@@ -1,6 +1,6 @@
 ;;; private/boy/+org.el -*- lexical-binding: t; -*-
 
-(setq org-directory "~/documents/org/")
+(setq org-directory "~/Library/Mobile Documents/iCloud~com~appsonthemove~beorg/Documents/org/")
 
 ;; ORG config
 (after! org
