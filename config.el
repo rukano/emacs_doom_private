@@ -152,3 +152,9 @@
     ;; change default prefix
     (setq org-trello-default-prefix-keybinding "C-c l")
     (setq org-trello-current-prefix-keybinding "C-c l")))
+
+;; MAC keybinding for using alt for german and special symbols and cmd as meta
+
+(setq
+ mac-command-modifier 'meta
+ mac-option-modifier 'none)
